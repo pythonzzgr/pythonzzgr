@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=20232a " />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=plastic&logo=html5&logoColor=white " />&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=ffd35b " />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=plastic&logo=tailwind-css&logoColor=white " />&nbsp
 </div>
 
 <div align="center">
@@ -21,7 +19,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54 " />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=plastic&logo=pandas&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=plastic&logo=numpy&logoColor=white " />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=plastic&logo=Matplotlib&logoColor=white " />&nbsp
+  <img src="https://img.shields.io/badge/semaphoreci-11557c.svg?style=plastic&logo=Matplotlib&logoColor=white " />&nbsp
 </div>
 
 <h4 align="center">Ongoing</h3>
