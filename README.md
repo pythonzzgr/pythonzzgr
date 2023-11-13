@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=plastic&logo=css3&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/>&nbsp
 </div>
-
-<h4 align="center">Ongoing</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=plastic&logo=typescript&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white " />&nbsp
@@ -39,4 +37,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=plastic&logo=adobe%20photoshop&logoColor=37abff " />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white " />&nbsp
+  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white " />&nbsp
 </div>
