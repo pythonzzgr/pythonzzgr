@@ -9,11 +9,11 @@
 
 <h4 align="center">Stacks</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54 " />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=plastic&logo=pandas&logoColor=white " />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=plastic&logo=numpy&logoColor=white " />&nbsp
-  <img src="https://img.shields.io/badge/semaphoreci-19A974.svg?style=plastic&logo=Matplotlib&logoColor=white " />&nbsp
-  <img src="https://img.shields.io/badge/xing-006567.svg?style=plastic&logo=xAPI&logoColor=white " />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=plastic&logo=pandas&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=plastic&logo=numpy&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/semaphoreci-19A974.svg?style=plastic&logo=Matplotlib&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/xing-006567.svg?style=plastic&logo=xAPI&logoColor=white"/>&nbsp
 </div>
 
 <div align="center">
