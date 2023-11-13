@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/>&nbsp
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=plastic&logo=typescript&logoColor=white " />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white " />&nbsp
+<!--   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=plastic&logo=typescript&logoColor=white " />&nbsp -->
+<!--   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white " />&nbsp -->
 </div>
 
 <h4 align="center">Tools</h3>
