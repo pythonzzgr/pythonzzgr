@@ -8,5 +8,5 @@
 <br>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=pythonzzgr&theme=github_dark_dimmed&show_icons=true" width="40%" style="margin-right: 5%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonzzgr&layout=compact&theme=github_dark_dimmed" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonzzgr&layout=compact&theme=github_dark_dimmed" width="32%" />
 </a>
