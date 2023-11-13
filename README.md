@@ -9,7 +9,7 @@
 
 <h4 align="center">Stacks</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/php-777BB4%3Fstyle%3Dplastic%24logo%3Dphp%26logoColor%3Dwhite" />&nbsp
+  <img src="https://img.shields.io/badge/phpstorm-777BB4%3Fstyle%3Dplastic%24logo%3Dphp%26logoColor%3Dwhite" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=20232a " />&nbsp
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=plastic&logo=html5&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=ffd35b " />&nbsp
