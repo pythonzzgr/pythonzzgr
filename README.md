@@ -7,7 +7,7 @@
   Then, I decided to be a Developer and now I am!
 </h4>
 
-<h5 align="center">Stacks</h3>
+<h4 align="center">Stacks</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -28,7 +28,7 @@
 
 <br>
 
-<h5 align="center">Ongoing</h3>
+<h4 align="center">Ongoing</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
@@ -37,7 +37,7 @@
 
 <br>
 
-<h5 align="center">Tools</h3>
+<h4 align="center">Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
