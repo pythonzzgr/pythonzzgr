@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=plastic&logo=tailwind-css&logoColor=white " />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=plastic&logo=css3&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54 " />&nbsp
@@ -26,16 +24,12 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=plastic&logo=Matplotlib&logoColor=white " />&nbsp
 </div>
 
-<br>
-
 <h4 align="center">Ongoing</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=plastic&logo=typescript&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=plastic&logo=react%20query&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=plastic&logo=recoil&logoColor=white " />&nbsp
 </div>
-
-<br>
 
 <h4 align="center">Tools</h3>
 <div align="center">
