@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=plastic&logo=git&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=plastic&logo=github&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=plastic&logo=gitlab&logoColor=white " />&nbsp
+  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white " />&nbsp
 </div>
 
 <div align="center">
@@ -38,5 +39,4 @@
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=plastic&logo=visualstudiocode&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=plastic&logo=virtualbox&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=plastic&logo=notion&logoColor=black " />&nbsp
-  <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white " />&nbsp
 </div>
