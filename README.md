@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54 " />&nbsp
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=plastic&logo=pandas&logoColor=white " />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=plastic&logo=numpy&logoColor=white " />&nbsp
-  <img src="https://img.shields.io/badge/semaphoreci-11557c.svg?style=plastic&logo=Matplotlib&logoColor=white " />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=plastic&logo=semaphoreci&logoColor=white " />&nbsp
 </div>
 
 <h4 align="center">Ongoing</h3>
