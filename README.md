@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-19A974.svg?style=plastic&logo=Matplotlib&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/grav-19A974.svg?style=plastic&logo=Matplotlib&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/xing-006567.svg?style=plastic&logo=xAPI&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=white " />&nbsp
