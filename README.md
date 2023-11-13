@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=_hexcode&theme=github_dark_dimmed&height=120&animation=fadeIn&section=footer&text=Pythonzzgr&fontAlign=70)
-### <center>Hi there, I am Data Engineer in Edu Tech Corp. I am interested in ML/DL, CV, NLP.<br>I majored in Police Administation in Dongguk Univ. but I certificated AI/Big Data course.<br>Then, I decided to be a Developer and now I am!</center>
+<h4 align="center">
+  Hi there, I am Data Engineer in Edu Tech Corp. I am interested in ML/DL, CV, NLP.
+  <br>
+  I majored in Police Administation in Dongguk Univ. but I certificated AI/Big Data course.
+  <br>
+  Then, I decided to be a Developer and now I am!
+</h4>
 
-<h3 align="center">Stacks</h3>
+<h5 align="center">Stacks</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -22,7 +28,7 @@
 
 <br>
 
-<h3 align="center">Ongoing</h3>
+<h5 align="center">Ongoing</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
@@ -31,7 +37,7 @@
 
 <br>
 
-<h3 align="center">Tools</h3>
+<h5 align="center">Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
